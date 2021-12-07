@@ -32,6 +32,7 @@ learn more more about Service Providers in our documentation
 PROVIDERS = [
     # Framework Providers
     AppProvider,
+    CorsProvider,
     RequestHelpersProvider,
     CsrfProvider,
     AuthenticationProvider,
@@ -52,7 +53,7 @@ PROVIDERS = [
     LoggingProvider,
     ValidationProvider,
     ORMProvider,
-    CorsProvider, 
+     
     # Application Providers
 ]
 CORS = {
