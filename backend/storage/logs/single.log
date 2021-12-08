@@ -38,3 +38,8 @@
 2021-12-06 01:19:26 - INFO - "GET /blogs HTTP/1.1" 200 2
 2021-12-06 01:20:18 - ERROR - AttributeError in /Users/palomacorreal/development/seir_penguin/UNIT_4_PYTHON_MASONITE/DAY_05/5_afternoon_lab/backend/app/http/controllers/blogsController.py on line 35
 2021-12-06 01:20:18 - ERROR - "GET /blogs/0 HTTP/1.1" 500 1048205
+2021-12-07 06:40:46 - ERROR - AttributeError in 0 on line 0
+2021-12-07 06:40:46 - ERROR - "GET / HTTP/1.1" 500 967528
+2021-12-07 16:09:53 - ERROR - AttributeError in 0 on line 0
+2021-12-07 16:09:55 - ERROR - AttributeError in 0 on line 0
+2021-12-07 16:09:55 - ERROR - "GET / HTTP/1.1" 500 967535
